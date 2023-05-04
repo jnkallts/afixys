@@ -1,2 +1,2 @@
 # afixys
-A website
+A trial website for Afixys
